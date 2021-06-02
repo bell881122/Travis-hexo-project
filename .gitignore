@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+/.github/dependabot.yml
+/_config.landscape.yml
+/yarn.lock
